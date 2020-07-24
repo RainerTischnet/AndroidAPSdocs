@@ -201,3 +201,8 @@ Even if the patched LibreLink app approach is smart there may be some reasons to
 Remark: The transmitter can be used in parallel to the LibreLink app. It doesn't disturb the patched LibreLink app operation.
 
 Remark #2: The OOP algorithm cannot be calibrated yet. This will be changed in the future.
+
+Alternatively you can use the Miaomiao 2 or Bubble. Droplet falls out because the values ​​are completely arbitrary. Please do not use the droplet. The following uses are suitable for the bubble and MM2, bluethooth works with libre 2 because the device that started the sensor is not available, the patch is not available in all regions or you want a smartphone or a smartwatch with Android (Kospet Prime 4G) use without nfc.
+The Tomato app is available for the mm2 and the Diabox app for the Bubble. Diabox will soon be able to calibrate the values ​​according to xdrip or send them to AAPS (request for DiaBox has been made and accepted), currently it is not yet explicitly addressed.
+A direct connection to xdrip also works. The link. The Xdrip settings also work with bubble. (bubbles current firmware works).
+You can turn on OOP calibration in the Xdrip settings xml. Further information on this is described in the aaps group facebook.
